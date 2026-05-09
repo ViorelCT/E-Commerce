@@ -7,8 +7,6 @@
       <sourceFolder url="file://$MODULE_DIR$/BackEnd/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/BackEnd/src/test/java" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/BackEnd/target" />
-      <excludeFolder url="file://$MODULE_DIR$/FrontEnd/.idea" />
-      <excludeFolder url="file://$MODULE_DIR$/FrontEnd/node_modules" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
